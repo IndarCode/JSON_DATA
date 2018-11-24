@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "5bf95d47798a3670594ed487",
+    "guid": "11da62d4-d33f-40ce-91bd-aadc0916a196",
+    "isActive": false,
+    "balance": "$1,343.44",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "green",
+    "name": {
+      "first": "Yvonne",
+      "last": "Galloway"
+    },
+    "company": "SCHOOLIO",
+    "email": "yvonne.galloway@schoolio.org",
+    "phone": "+1 (918) 414-3475",
+    "address": "994 Gardner Avenue, Chapin, Kansas, 9938",
+    "about": "Voluptate et incididunt mollit ex ullamco culpa exercitation irure tempor enim qui et. Dolor ullamco occaecat et nulla. Culpa ad cillum nostrud fugiat irure id in anim duis magna do ullamco elit mollit. Magna nulla incididunt in deserunt fugiat labore sint mollit non exercitation culpa nostrud. Ex excepteur et do sint non nisi laboris dolor minim velit in nostrud ullamco. Esse in tempor ea minim amet minim ullamco.",
+    "latitude": "4.834086",
+    "longitude": "-25.058696",
+    "registered": "Saturday, July 1, 2017 1:24 PM"
+  },
+  {
+    "_id": "5bf95d47d104c16f906cfd97",
+    "guid": "bb8e3825-80e8-4c13-a270-2bdf5f4882b4",
+    "isActive": false,
+    "balance": "$2,796.94",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Rocha",
+      "last": "Kline"
+    },
+    "company": "GAPTEC",
+    "email": "rocha.kline@gaptec.us",
+    "phone": "+1 (830) 515-2594",
+    "address": "264 Grant Avenue, Norris, Minnesota, 7545",
+    "about": "Voluptate eiusmod in dolor dolore qui sint ex est. Esse officia fugiat non non nulla quis ipsum anim est irure amet ex pariatur. Quis cillum nisi proident officia eu esse tempor in veniam. Ad reprehenderit magna id cupidatat laboris voluptate reprehenderit Lorem aliqua commodo cupidatat. Mollit nulla duis ex cillum elit consequat consectetur mollit incididunt amet. Magna dolore laboris aute est duis ipsum. Exercitation minim nostrud esse Lorem aliquip ad ex excepteur ullamco est.",
+    "latitude": "-0.873651",
+    "longitude": "24.044504",
+    "registered": "Wednesday, September 5, 2018 7:24 PM"
+  },
+  {
+    "_id": "5bf95d4727ec0030d4a1cce5",
+    "guid": "96a180b8-ffd6-4f53-8799-65663bed1e92",
+    "isActive": false,
+    "balance": "$2,411.66",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Millicent",
+      "last": "Le"
+    },
+    "company": "GADTRON",
+    "email": "millicent.le@gadtron.net",
+    "phone": "+1 (877) 517-3294",
+    "address": "427 Karweg Place, Masthope, Oklahoma, 6798",
+    "about": "Nisi fugiat ea ut incididunt labore ex incididunt quis. Nisi velit elit enim nisi quis Lorem tempor dolore amet. Tempor ipsum duis mollit minim id non nulla ex ipsum veniam. Velit duis sint veniam labore quis mollit laborum sit laboris ad.",
+    "latitude": "47.486293",
+    "longitude": "119.165222",
+    "registered": "Tuesday, July 19, 2016 7:23 PM"
+  },
+  {
+    "_id": "5bf95d473d8be5fef66746ab",
+    "guid": "0a40518e-dc88-45d6-a7e9-af57f913b1a0",
+    "isActive": true,
+    "balance": "$2,833.10",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Blanchard",
+      "last": "Farmer"
+    },
+    "company": "KEEG",
+    "email": "blanchard.farmer@keeg.com",
+    "phone": "+1 (998) 579-3958",
+    "address": "747 Haring Street, Waterview, Colorado, 6394",
+    "about": "Proident nisi minim ex velit fugiat occaecat eiusmod mollit exercitation occaecat adipisicing ex anim. Minim sunt proident sint fugiat sint. Nostrud laboris irure et eiusmod sunt nulla anim culpa anim officia. In mollit aute amet magna cillum ut occaecat tempor nostrud.",
+    "latitude": "-13.335909",
+    "longitude": "73.917089",
+    "registered": "Monday, October 27, 2014 12:46 PM"
+  },
+  {
+    "_id": "5bf95d4707cb7d46441a9ad1",
+    "guid": "bf4f716f-5c47-421a-894d-202446db9cc6",
+    "isActive": false,
+    "balance": "$2,247.17",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Louise",
+      "last": "Bailey"
+    },
+    "company": "COMBOGEN",
+    "email": "louise.bailey@combogen.biz",
+    "phone": "+1 (983) 412-2799",
+    "address": "842 Himrod Street, Lavalette, Connecticut, 4662",
+    "about": "Elit id nostrud ad voluptate. Incididunt sunt exercitation officia Lorem pariatur anim nisi duis sint et occaecat in sunt reprehenderit. Nisi incididunt nulla ea commodo amet sunt duis occaecat amet et adipisicing laboris eu labore. Sint non commodo deserunt exercitation et esse. Do Lorem reprehenderit proident irure enim proident enim cupidatat nostrud.",
+    "latitude": "82.757147",
+    "longitude": "-16.445084",
+    "registered": "Monday, June 6, 2016 5:10 AM"
+  }
+]
